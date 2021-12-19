@@ -1,3 +1,9 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/ucdevinda123/currencylayer/badge)](https://www.codefactor.io/repository/github/ucdevinda123/currencylayer)
+
+Currency Layer API Implementation : 
+This is an attempt to make latest/live  exchange rates via flask rest api. Few more improvements are in the pipeline and eventually it will have the same functionality ass currency layer api but for free :)  Feel free to hop on cheers!
+
+
 # 1. Create a Virtual Environment : python -m venv env
 
 # 2. Activate Virtual Environment : source ./env/bin/activate

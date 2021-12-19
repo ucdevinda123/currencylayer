@@ -10,7 +10,7 @@ This is an attempt to make latest/live  exchange rates via flask rest api. Few m
 
 # Endpoints :
 
-# Get List of Countries : <http://127.0.0.1:5000/list>
+# Get List of Countries : <http://127.0.0.1:5000/api/list>
 
 {
 "code": 200,
@@ -31,7 +31,7 @@ This is an attempt to make latest/live  exchange rates via flask rest api. Few m
 "success": true
 }
 
-# Get Live currency Rates : <http://127.0.0.1:5000/live?source=SGD>
+# Get Live currency Rates : <http://127.0.0.1:5000/api/live?source=SGD>
 
 {
 "code": 200,
